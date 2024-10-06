@@ -1,0 +1,25 @@
+<div class="movie-details-container">
+  <h1 class="movie-title">{{ movie && movie.title }}</h1>
+  <h3 class="movie-description">{{ movie && movie.description }}</h3>
+  <div *ngIf="averageRating > 0" class="rating-container">
+    <p>
+      <span class="rating-text">Average Rating:</span>
+      <ngx-stars [readonly]="true" [maxStars]="5" [initialStars]="averageRating"></ngx-stars>
+      <span class="rating-number">({{ averageRating | number: '1.1-1' }} stars)</span>
+    </p>
+  </div>
+  <h2 class="reviews-heading">Reviews</h2>
+  <mat-list class="review-list">
+    <mat-list-item *ngFor="let review of reviews" class="review-item">
+      <div class="review-details">
+        <bar-rating [rate]="review.rating" [readonly]="true" max="5" [theme]="'css-stars'"></bar-rating>
+        <p class="review-comment">{{ review.comment }}</p>
+        <p class="reviewer-name">Reviewed by: {{ review.reviewerName }}</p>
+      </div>
+    </mat-list-item>
+  </mat-list>
+  <button mat-raised-button color="primary" [routerLink]="['/movies', movie && movie.id, 'add-review']" class="add-review-button">
+    Add Review
+  </button>
+
+</div>

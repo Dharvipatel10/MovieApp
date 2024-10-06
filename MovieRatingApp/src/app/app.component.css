@@ -1,0 +1,28 @@
+.header-toolbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    background-color: #8B2D80;
+    font-family: cursive;
+}
+
+.header-toolbar a{
+    font-family: cursive;
+    background-color: #120934;
+}
+
+.header-toolbar a:hover{
+    background-color: #FFFFFF;
+    font-weight: bold;
+    color: #120934;
+}
+
+.router-outlet + * {
+    margin-top: 80px;
+    
+}

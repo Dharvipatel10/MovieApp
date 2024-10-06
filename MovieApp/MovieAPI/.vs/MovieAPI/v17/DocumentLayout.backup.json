@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|c:\\users\\asus\\movieapp\\movieapi\\movieapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|c:\\users\\asus\\movieapp\\movieapi\\movieapi\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|c:\\users\\asus\\movieapp\\movieapi\\movieapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|c:\\users\\asus\\movieapp\\movieapi\\movieapi\\migrations\\20241003163744_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\migrations\\20241003163744_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|c:\\users\\asus\\movieapp\\movieapi\\movieapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|c:\\users\\asus\\movieapp\\movieapi\\movieapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|c:\\users\\asus\\movieapp\\movieapi\\movieapi\\movieapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\movieapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|c:\\users\\asus\\movieapp\\movieapi\\movieapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|c:\\users\\asus\\movieapp\\movieapi\\movieapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AD99B6E-C9C2-479A-A158-AFA0FA575B8D}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Migrations\\20241003132903_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieAPI\\Migrations\\20241003132903_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Migrations\\20241001101012_First-Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieAPI\\Migrations\\20241001101012_First-Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Migrations\\MovieReviews\\20241001081212_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieAPI\\Migrations\\MovieReviews\\20241001081212_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Models\\Review.cs",
+              "RelativeToolTip": "MovieAPI\\Models\\Review.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:38:18.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieAPI\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:43:11.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieAPI\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:31:36.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Models\\MovieContext.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Models\\MovieContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Models\\MovieContext.cs",
+              "RelativeToolTip": "MovieAPI\\Models\\MovieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:29:13.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "MovieAPI\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswFwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:32:28.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Program.cs",
+              "RelativeToolTip": "MovieAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:41:22.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241003163744_Init.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Migrations\\20241003163744_Init.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Migrations\\20241003163744_Init.cs",
+              "ToolTip": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Migrations\\20241003163744_Init.cs",
+              "RelativeToolTip": "MovieAPI\\Migrations\\20241003163744_Init.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:37:44.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\MovieAPI.csproj",
+              "RelativeDocumentMoniker": "MovieAPI\\MovieAPI.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\MovieAPI.csproj",
+              "RelativeToolTip": "MovieAPI\\MovieAPI.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T07:48:47.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241003132903_Init.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Migrations\\20241003132903_Init.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Migrations\\20241003132903_Init.cs",
+              "ToolTip": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Migrations\\20241003132903_Init.cs",
+              "RelativeToolTip": "MovieAPI\\Migrations\\20241003132903_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:29:03.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\appsettings.json",
+              "RelativeToolTip": "MovieAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T20:29:15.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241001101012_First-Migration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Migrations\\20241001101012_First-Migration.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Migrations\\20241001101012_First-Migration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Migrations\\20241001101012_First-Migration.cs",
+              "RelativeToolTip": "MovieAPI\\Migrations\\20241001101012_First-Migration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:10:12.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241001081212_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Migrations\\MovieReviews\\20241001081212_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Migrations\\MovieReviews\\20241001081212_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\MovieApp\\MovieAPI\\MovieAPI\\Migrations\\MovieReviews\\20241001081212_InitialCreate.cs",
+              "RelativeToolTip": "MovieAPI\\Migrations\\MovieReviews\\20241001081212_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:12:12.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

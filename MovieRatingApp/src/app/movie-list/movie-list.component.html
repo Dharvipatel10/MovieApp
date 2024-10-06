@@ -1,0 +1,18 @@
+<h1 class="movie-title-header">Movie Lists</h1>
+<div class="movie-container">
+  <mat-grid-list cols="3" rowHeight="350px" gutterSize="20px">
+    <mat-grid-tile *ngFor="let movie of movies">
+      <mat-card>
+        <img mat-card-image [src]="movie.posterUrl" alt="{{ movie.title }} Poster" class="movie-poster" />
+        <mat-card-content>
+          <h3>
+            <a [routerLink]="['/movies', movie.id]" class="movie-title">{{ movie.title }}</a>
+          </h3>
+          <span *ngIf="movie.averageRating" class="rating">
+            Average Rating: {{ movie.averageRating | number: '1.1-1' }} stars
+          </span>
+        </mat-card-content>
+      </mat-card>
+    </mat-grid-tile>
+  </mat-grid-list>
+</div>

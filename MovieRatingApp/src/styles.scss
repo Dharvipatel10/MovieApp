@@ -1,0 +1,23 @@
+@import "@angular/material/prebuilt-themes/indigo-pink.css";
+@import 'ngx-bar-rating/themes/br-stars-theme';
+
+
+html, body { height: 100%; }
+body { 
+  margin: 0; 
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  background-color: #42101A; 
+}
+.spacer {
+    flex: 1 1 auto;
+  }
+  .movie-container {
+    padding: 20px;
+    margin-top: 20px;
+  }
+
+mat-grid-list {
+    width: 100%;
+}
+
+

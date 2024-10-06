@@ -1,0 +1,29 @@
+<h1>Add Review for Movie "{{ movie && movie.title }}"</h1>
+<form (ngSubmit)="submitReview()" #reviewForm="ngForm">
+  <div class="form-group">
+    <label for="rating">Add Rating</label>
+    <ngx-stars (ratingOutput)="onRatingSet($event)" [wholeStars]="true" style="cursor: pointer;" Required></ngx-stars>
+  </div>
+
+  <div class="form-group">
+    <mat-form-field appearance="fill">
+      <mat-label>Write a Comment</mat-label>
+      <textarea matInput [(ngModel)]="review.comment" name="comment" required></textarea>
+    </mat-form-field>
+  </div>
+
+  <div class="form-group">
+    <mat-form-field appearance="fill">
+      <mat-label>Write Your Name</mat-label>
+      <input
+        matInput
+        [(ngModel)]="review.reviewerName"
+        name="reviewerName"
+        required
+        minlength="3"
+        placeholder="Enter your name">
+    </mat-form-field>
+  </div>
+  
+  <button mat-raised-button type="submit" [disabled]="reviewForm.invalid">Submit Review</button>
+</form>
