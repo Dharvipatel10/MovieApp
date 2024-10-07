@@ -69,7 +69,7 @@ To run this project on your local machine, follow the instructions below:
 # Steps:
   1) Clone the Repository
   2) Setup the Backend(.net API)
-  3) Setup the Frintend(Angular App)
+  3) Setup the Frontend(Angular App)
   4) API Testing
 
 # Contact
