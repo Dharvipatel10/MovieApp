@@ -72,9 +72,6 @@ To run this project on your local machine, follow the instructions below:
   3) Setup the Frintend(Angular App)
   4) API Testing
 
-# License
-This project is licensed under the MIT License file for details.
-
 # Contact
 if you have any questions or suggestions,feel free to reach out:
 - Name : Dharvi Patel
